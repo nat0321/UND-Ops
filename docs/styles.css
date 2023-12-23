@@ -49,8 +49,9 @@ li {
 }
 
 li img {
-    max-width: 50%;
-    height: auto;
+    width: auto; /* Set the width to a specific value */
+    height: 200px; /* Set the height to a specific value */
+    object-fit: cover; /* Ensure the image covers the specified dimensions */
     margin-bottom: 10px;
 }
 

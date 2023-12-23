@@ -13,19 +13,18 @@ header {
 }
 
 header h1 {
-    position: relative;
     margin: 0;
 }
 
 header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+    padding: 20px;
 }
 
 header p {
-    position: relative;
     font-size: 1.2em;
 }
 

@@ -19,16 +19,13 @@ header img {
     background: #009A44;
     background-color: #009A44;
     border-radius: 50px;
-    padding: 20px;
 }
 
 header h1 {
-    position: center;
     margin: 0;
 }
 
 header p {
-    position: center;
     font-size: 1.2em;
 }
 

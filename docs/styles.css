@@ -23,12 +23,12 @@ header img {
 }
 
 header h1 {
-    position: relative;
+    position: center;
     margin: 0;
 }
 
 header p {
-    position: relative;
+    position: center;
     font-size: 1.2em;
 }
 

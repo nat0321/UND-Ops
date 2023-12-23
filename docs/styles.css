@@ -49,9 +49,9 @@ li {
 }
 
 li img {
-    max-height: 200px;
-    height: 100%;
-    width: auto;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
     margin-bottom: 10px;
 }
 
